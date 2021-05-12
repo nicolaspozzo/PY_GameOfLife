@@ -1,0 +1,17 @@
+
+
+El Juego De La Vida
+*******************
+
++ Una célula nuerta con exáctamente 3 células vecinas, volverá a la vida.
+
++ Una célula viva con 2 o 3 células vecinas vivas, continurará viva.
+
++ En caso contrario morirá por soledad o sobrepoblación.
+
+
+
+
+
+
+
